@@ -26,4 +26,5 @@ areas = ["hallway",hall, "kitchen", kit, "living room", liv, "bedroom", bed, "ba
 print(areas)
 #Output: ************
 ------
+#E3 Rest are way to easy!
 
