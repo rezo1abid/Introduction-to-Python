@@ -1,2 +1,2 @@
 # Introduction-to-Python
-A documentation of python learning journey.
+A documentation of python learning journey in DataCamp.
